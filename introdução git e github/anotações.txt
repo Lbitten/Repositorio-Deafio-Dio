@@ -1,0 +1,7 @@
+comandos:
+
+git add . # adiciona arquivos local
+git commit -m # "Commita" aquivos
+git push origin main # manda commit local para nuvem
+Git status # Mostra status do repositorio
+git clone # "clona" repositorio na maquina
