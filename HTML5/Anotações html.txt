@@ -1,1 +1,8 @@
 html 1991
+
+
+<ul>  -  lista onde a ordem não importa
+
+<ol>  -  lista ons há uma ordem, seja numerica, com letras, etc
+
+<li>  -  um item dentro de uma lista 
